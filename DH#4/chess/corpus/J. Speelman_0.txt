@@ -1,0 +1,50 @@
+Кg8-f6 e7-e6 Сf8-b4+ Фd8-e7 Кb8-c6 Сb4-d2+ 0-0 d7-d6 a7-a5 d6-e5 Кf6-d7 Лf8-d8 a5-a4 Лa8-a5 Кd7-f8 Сc8-d7 Сd7-e8 b7-b6 Кc6-d4 Лd8-d4 Лd4-d8 h7-h6 Лd8-c8 c7-c5 Сe8-b5 c5-c4 Лa5-a7 Лa7-c7 Лc7-c5 Фe7-c7 Кf8-g6 Кg6-e5 Лc5-c1 Кe5-d7 Кd7-f6 Фc7-d7 Лc1-c8 Лc8-d8 g7-g6 Кf6-d5 Фd7-e7
+d2-d4 Кg1-f3 g2-g3 Сf1-g2 0-0 c2-c4 c4-d5 Кb1-c3 Кf3-e5 b2-c3 Кe5-c6
+e7-e5 Кg8-f6 d7-d6 Кf6-e4 d6-d5 Сf8-e7 Кb8-c6 Сc8-f5 Кe4-d2 Сf5-d3 0-0 Фd8-d6 Лf8-e8 Кc6-e7 Кe7-g6 Фd6-d7 Лe8-e3 Лa8-e8 Фd7-e8 Кg6-f8 f7-f6 a7-a6 Фe8-g6 
+c7-c5 Кb8-c6 c5-d4 Кg8-f6 d7-d6 e7-e5 h7-h6 Сc8-e6 Сf8-e7 0-0 Лa8-c8 Лf8-e8 Сe7-f8 a7-a6 g7-g6 Сf8-g7 Кf6-h5 b7-b5 Фd8-c7 Кc6-e7 Кh5-f6 a6-b5 Фc7-b8 Кe7-c6 Кf6-h5 Лc8-e8 Лe8-c8 Фb8-b5 Фb5-a5 Кh5-f4 Фa5-c7 Кc6-d4 e5-d4 d4-d3 Кf4-e2+ d3-e2 Крg8-g7 Фc7-e5 Лc8-b8 Фe5-b2 Крg7-h7 Лb8-e8 Фb2-e2 Лe8-g8 Сe6-c8 Сc8-b7 Сb7-e4 Лg8-g7 Сe4-g6 Фe2-e4 h6-h5 Фe4-d5 Фd5-c4 Фc4-e4 Лg7-a7 Лa7-c7 Лc7-g7 
+g2-g3 Кg1-f3 Сf1-g2 0-0 c2-c4 c4-d5 d2-d4 Кf3-g5 Сc1-g5 Сg5-e3 Кb1-c3 Фd1-d2
+c7-c6 d7-d5 d5-e4 Кb8-d7 Кg8-f6 e7-e6 Кd7-b6 h7-h6 c6-c5 Кf6-d5 c5-c4 Кb6-c4 Фd8-a5+ Сc8-d7 Лa8-c8 Сd7-b5 Фa5-a6 Сf8-d6 0-0 Сd6-e5 f7-f6 Лf8-d8 e6-e5 Сb5-e2 e5-d4 Лc8-c6 Лd8-c8 Крg8-f7 Фa6-b5 h6-h5 Кd5-e3 Кe3-c2 Фb5-c4 Фc4-d5 Кc2-d4 Лc8-d8 Фd5-a2 a7-a6 Кd4-b5 Кb5-c3
+e2-e4 Кg1-f3 d2-d4 Кf3-d4 Кb1-c3 g2-g4 h2-h4 Лh1-h3 g4-g5 f2-f3 Сc1-e3 Фd1-e2 0-0-0 Крc1-b1 Кd4-b3 Сe3-g1 f3-f4 e4-e5 Кb3-c5 Кc5-d7 Фe2-b5 Сf1-b5 a2-a3 Кc3-a4 Лd1-d2 Лh3-b3 Лb3-b5 Сg1-a7 Сa7-d4 Сd4-a7 Кa4-b6 Сa7-b6 Лd2-d4 Лd4-c4 Сb6-d4 a3-a4 Крb1-c1 c2-c3 b2-b3 Сd4-e3 Крc1-d2 Сe3-d4
+Кg8-f6 e7-e6 c7-c5 d7-d5 Кf6-d5 Сf8-e7 0-0 Кb8-c6 e6-d5 Сe7-c5 Сc8-g4 Сc5-b6 d5-d4 Сg4-f5 Сf5-g6 Лa8-c8 Лf8-e8
+d2-d4 Кg1-f3 c2-c4 Кb1-d2 g2-g3 Сf1-g2 0-0 Фd1-c2 c4-c5 b2-b3 Кd2-e4 Фc2-e4 Фe4-h4 Лf1-d1 Кf3-g5 Сc1-g5 Фh4-g5 Лa1-c1 h2-h4 h4-h5 h5-h6+ Фg5-a5 Сg2-f3 Лd1-d2 Сf3-g2 Фa5-b4 d4-d5 Лc1-c4 e2-e4 Сg2-h3 Фb4-b7 Лd2-d5 Фb7-a7 Лc4-c7 Лd5-d7 Фa7-c5 e4-e5 Фc5-e5 Лc7-d7 a2-a4 Крg1-g2
+Кg1-f3 c2-c4 Кb1-c3 d2-d4 Сc1-f4 e2-e3 d4-c5 c4-d5 Кc3-d5 a2-a3 Сf1-d3 Фd1-d3 Крe1-e2 b2-b4 Сf4-g3 Лa1-c1 Кf3-d4 Лc1-c2 Лh1-c1 h2-g3 Лc2-c5 Кd4-f3 Фd3-d4 Кf3-g5 Фd4-f4 Лc5-c8 Лc1-c8 Лc8-e8 Фf4-d6 Крe2-f3 Фd6-d8 Фd8-f6 Крf3-g4 Крg4-g5 g3-g4 Фf6-d4 e3-d4 a3-a4 b4-b5 f2-f3 Крg5-f4
+Кg8-f6 e7-e6 d7-d5 Сf8-e7 h7-h6 0-0 d5-c4 a7-a6 Кf6-d7 Фd8-e7 c7-c5 Кd7-e5 e6-d5 Фe7-e5 Кb8-c6 Фe5-f5 Сc8-f5 Лf8-e8 Лe8-e1+ Лa8-d8 Крg8-f8 Сf5-c2 Лd8-d6 Кc6-a5 Лd6-d1 Сc2-d1 Крf8-e7 Крe7-d6 Сd1-b3 g7-g5 Сb3-e6 Кa5-c6 Кc6-b4 Крd6-c7 b7-b5 a6-b5 Сe6-f5 Крc7-d6 Кb4-d5+ c5-c4+ Крd6-c5
+Кg8-f6 e7-e6 Сf8-b4+ a7-a5 d7-d6 Фd8-e7 e6-e5 Сb4-d2 0-0 Лf8-e8 Кb8-d7 c7-c6 a5-b4 Фe7-d8 Лa8-a1 e5-d4 Кd7-f8 Фd8-a5 Кf8-e6 g7-g6 Крg8-f8 Крf8-e7 h7-h5 Кe6-g7 Крe7-d8 Лe8-e7 h5-h4 c6-d5 Сc8-f5 Кg7-f5 Лe7-e1 Крd8-e7 Кf6-h5 Кf5-d4+ Кd4-b3 Кb3-a5 Кa5-c4+ Кc4-d2+ Кd2-c4+ 
+Кg8-f6 e7-e6 b7-b6 Сf8-b4 h7-h6 Сc8-b7 g7-g5 Кf6-e4 Сb4-c3+ Кe4-g3 Фd8-e7 Кb8-c6 0-0-0 d7-d6 c7-b6 Крc8-b8 h6-h5 h5-h4 g5-h4 f7-f5 Фe7-g7 e6-e5 e5-e4 e4-f3 Сb7-c6 a7-b6 Фg7-c7 d6-d5 Фc7-c5 Лh8-h4 Лd8-g8 Фc5-a5 Лg8-g1+ Фa5-c5+ Лg1-c1 Фc5-c8 Фc8-a6+ Фa6-a4 Крb8-a7 Фa4-c6 Крa7-a6 d5-d4 d4-e3 Фc6-c2+ Лc1-c2+ Лc2-e2 Лe2-e3 Лe3-e8 Крa6-b5 Лe8-f8 Крb5-b4 b6-b5 Крb4-c3 
+Кg8-f6 b7-b6 Сc8-b7 c7-c5 g7-g6 Сf8-g7 0-0 Кb8-a6 e7-e6 d7-d5 Кf6-d5 Кd5-c3 Сg7-c3 Фd8-c7 Сb7-g2 Фc7-b7+ 
+Кg8-f6 d7-d5 Кb8-d7 g7-g6 Сf8-g7 0-0 c7-c5 b7-b6 d5-e4 Сc8-b7 e7-f6 Сb7-f3 c5-d4 Лa8-c8 Лc8-c2 Кd7-e5 Фd8-c7 Кe5-g4 f6-f5 Фc7-c5 Лc2-f2 Лf2-d2+ 
+Кg8-f6 e7-e6 Сf8-b4 0-0 d7-d5 d5-c4 e6-e5 Сb4-c3+ c7-c5 Кb8-c6 Фd8-c7 Лf8-d8 Сc8-g4 Фc7-e7 Кc6-e5 Кe5-d3 Кf6-h5 Сg4-f5 Фe7-g5 Кh5-g3 Кd3-b4 Кb4-a2 Фg5-g4 Сf5-d3 Лa8-d8 Лd8-d7 Сd3-c4 b7-b6 Фg4-e6 h7-h6 Крg8-g7 Фe6-c4 Лd7-d3 Крg7-f6 Крf6-e6 Крe6-d6 a7-a6 b6-b5 a6-b5 b5-b4 b4-b3 b3-b2 Лd3-b3 c5-c4 c4-c3 Лb3-a3 Крd6-e7 Лa3-a1
+c7-c6 d7-d5 d5-e4 Кb8-d7 Кg8-f6 e7-e6 b7-b6 Сc8-a6 Сf8-e7 0-0 Лa8-c8 Кf6-d5 c6-d5 b6-b5 Фd8-b6 b5-b4 Лc8-c6 d5-c4 Сa6-b5 Лc6-c8 f7-e6 e6-e5 Фb6-b5 e5-f4 f4-g3 Фb5-f5 Кd7-f6 Крg8-h8 Фf5-c5 Лc8-c5 Кf6-e4 Лf8-f7 Кe4-f2 Лc5-f5+ Лf5-f7 b4-a3 g7-g5 Крh8-g7 Лf7-b7 Крg7-f6 Крf6-f5 Крf5-g4 Лb7-b8 h7-h5
+d2-d4 c2-c4 Кg1-f3 Сc1-d2 g2-g3 Фd1-d2 Сf1-g2 0-0 Кb1-a3 Кa3-c4 Лf1-d1 Фd2-e3 Фe3-b3 e2-e4 e4-e5
+d2-d4 Кg1-f3 c2-c4 Кb1-c3 Сc1-f4 e2-e3 d4-c5 c4-d5 Кc3-d5 a2-a3 Сf1-d3 0-0 h2-h3 b2-b4 Лa1-c1 g2-g4 Сd3-g6 Фd1-d3 e3-e4
+Кg1-f3 c2-c4 Кb1-c3 g2-g3 c4-d5 Сf1-g2 0-0 b2-b3 Сc1-b2 Лa1-c1 d2-d3 Кc3-a4 e2-e3 d3-d4 e3-d4 Сb2-d4 Кf3-d4 Фd1-d4 Лc1-d1 Фd4-e5 Фe5-f6 Сg2-b7 Крg1-g2
+Кg1-f3 g2-g3 d2-d4 Сf1-g2 0-0 Лf1-e1 d4-d5 e2-e4 Кb1-a3 Лa1-b1 e4-d5 Кf3-d4 h2-h3 c2-c3 Крg1-h2
+g2-g3 Сf1-g2 e2-e4 d2-d3 Кb1-c3 Кg1-f3 0-0 Сc1-e3 Фd1-d2 Кf3-h4 f2-f4 Сe3-f4 Лa1-b1 Кc3-d5 e4-d5 Крg1-h1 c2-c3 Кh4-f5 h2-h3 d3-c4 Лf1-b1 Сf4-h6 Сh6-f4 Фd2-d3 Лb1-f1 h3-h4 Сf4-d2 b2-b3 Сg2-f3 h4-h5 Крh1-g2 Лf1-g1 Крg2-f1
+Кg8-f6 e7-e6 Сf8-b4+ Фd8-e7 Кb8-c6 Сb4-d2+ d7-d6 0-0 a7-a5 e6-e5 Кc6-b8 Кb8-d7 Кd7-c5 Сc8-d7 c7-c6 Лf8-e8 b7-c6 e5-f4 Фe7-e5 Фe5-d4 a5-a4 Фd4-d3 Кc5-e4 Фd3-d4 Лe8-e7 Фd4-a7 d6-d5 d5-e4 Кf6-g4 f7-f5 Фa7-c7 Кg4-h6 Сd7-e6 Сe6-c4 Крg8-h8 Лa8-f8 g7-g5 Лf8-f5 Крh8-g8 Лf5-f7 Лe7-e4 Фc7-d7 Фd7-e7 Фe7-f6 Фf6-f3+ Фf3-f2+ Крg8-f8 Лf7-d7 Фf2-e2 Кh6-g8 Кg8-e7 Лd7-d3
+c7-c6 d7-d5 d5-e4 Кb8-d7 Кg8-f6 e7-e6 Кd7-b6 h7-h6 c6-c5 Кb6-d7 Кf6-d5 g7-g5 Кd5-f4 g5-f4 a7-a5 Фd8-f6 Фf6-c3+ a5-b4 Фc3-b4 Сf8-g7 Фb4-c5
+Кg1-f3 d2-d4 Сc1-f4 e2-e3 h2-h3 Сf1-e2 0-0 c2-c4 Кb1-c3 Кc3-e4 Кf3-d2 Сe2-f3 Лa1-b1 d4-e5 Сf4-g3 Кd2-e4 Кe4-c3 Фd1-f3 Фf3-d1 Кc3-e2 Фd1-c2 b2-b3 Лb1-d1 Кe2-c1 Фc2-e2 Сg3-h4
+Кg8-f6 c7-c6 d7-d5 g7-g6 Сf8-g7 0-0 Сc8-g4 Кf6-e4 Кe4-c3 e7-e6 Кb8-d7 Кd7-b6 Сg4-f3 d5-c4 Кb6-c4 Кc4-d6 Кd6-b5 Сg7-f8 a7-a5 a5-a4 Сf8-b4 Сb4-a5 Кb5-c3 Кc3-d5 Фd8-f8 Лa8-c8 Кd5-c7 Лc8-d8 c6-c5 b7-b5 c5-d4 Кc7-d5 Сa5-c3 Лd8-c8 Фf8-c5 Лc8-c6 Крg8-g7 Лc6-c8 Кd5-b4 Лc8-c7 Фc5-a5 Фa5-c5 Фc5-a5 Кb4-d5 Лc7-b7 Фa5-a7 g6-g5 h7-h6 Сc3-a5 Лb7-e7 Кd5-c3 
+Кg8-f6 e7-e6 d7-d5 Сf8-e7 0-0 b7-b6 Сc8-b7 Кb8-a6 c7-c5 e6-d5 Лa8-c8 
+Кg8-f6 e7-e6 d7-d5 Сf8-e7 h7-h6 0-0 b7-b6 Сc8-b7 d5-c4 Кb8-d7 c7-c5 a7-a6
+Кg8-f6 e7-e6 Сf8-b4 h7-h6 c7-c5 Сb4-c3+ d7-d6 e6-e5 Кb8-d7 Фd8-e7 g7-g5 b7-b5 Кf6-d5 a7-a6 a6-b5 Фe7-e6 Сc8-a6 
+Кg8-f6 e7-e6 Сf8-b4 0-0 d7-d5 Кf6-d5 Кb8-d7 Кd5-c3 Сb4-a5 e6-e5 Лf8-e8 c7-c6 Сa5-b6 Фd8-g5 Лa8-b8 Кd7-f6 Сc8-e6 Сe6-c4 Кf6-d7
+e7-e6 d7-d5 Сf8-e7 Кg8-f6 h7-h6 Сe7-f6 0-0 c7-c5 c5-d4 e6-d5 Сc8-d7 Сd7-b5 a7-a6 Кb8-c6 b7-c6 Лf8-e8 d5-d4 Сf6-g5 Сg5-f6 Лe8-e4 Фd8-d6
+d2-d4 Кg1-f3 Сc1-g5 e2-e3 Сf1-d3 0-0 c2-c4 Сg5-f6 Кb1-c3 Лa1-c1 Сd3-e4 c4-d5 Сe4-b1 Фd1-d2 d4-c5 Кc3-e4 Лc1-d1 Кe4-g3 Кg3-h5 Кh5-f4 h2-h4 h4-h5 Кf4-e2 Кe2-g3 Фd2-d3 Фd3-h7+ Сb1-f5 Сf5-e6 e3-e4 Кf3-h2 Кh2-g4 Кg4-f6 Фh7-h6+ Фh6-g7+ e4-d5 Кg3-f5 Лf1-e1 h5-h6 h6-h7 Лe1-e6 Лe6-c6 Кf5-h6+ h7-h8Ф+ Кh6-f5+ Кf5-e7+ Лc6-f6+ Лf6-f3 Лf3-d3 Лd1-e1+ Лe1-f1 Лd3-c3
+Кg8-f6 e7-e6 Сf8-b4 b7-b6 Сc8-a6 Сb4-e7 d7-d5 c7-c6 0-0 Кf6-e8 Кe8-d6 Сa6-b7 Кb8-d7 Кd7-f6 a7-a5 Фd8-b8 Лa8-a7 Сb7-a8 Лf8-c8 Лc8-e8 Сe7-f8 g7-g6 c6-c5 Сf8-g7 Кf6-e4 Кd6-f5 e6-d5 Лe8-d8 Кf5-d6 Сa8-c6 Кe4-f6 Кd6-e4 b6-c5 h7-h5 Кe4-c5 Кf6-e4 
+d2-d4 Кg1-f3 c2-c4 g2-g3 b2-b3 Сc1-d2 Сf1-g2 0-0 c4-d5 Кb1-c3 Лf1-e1
+c7-c6 d7-d5 d5-e4 Кb8-d7 Кg8-f6 Кd7-f6 Кf6-d7 Кd7-e5 Фd8-d5 Фd5-e4+ Сc8-f5 Сf5-e4 Сe4-f5 e7-e6 Сf8-b4+ 0-0-0 Крc8-b7 Сf5-d3+ Сb4-c5+ Сd3-f5 Сc5-e3 h7-h5 Лh8-h6 Лh6-g6 Сe3-f2 Сf2-d4 e6-e5 Лg6-a6 Лa6-a4 Лd8-c8 Сd4-c5 Сc5-b4 Лa4-b4 Сf5-e6 Крb7-b8 Сe6-c4 Лb4-b2 f7-f6 Лb2-g2+ Сc4-d5+ Лc8-c1 Сd5-e4 Сe4-h7 Лc1-c5 f6-f5 a7-b6 Крb8-c7 Крc7-d7 Крd7-d6 Лc5-c7 Лc7-f7 Лf7-f6 Лf6-f8 Лf8-f7 Лf7-f6 Лf6-f8 f5-g4+ Лf8-g8+ Лg8-f8+ Лf8-a8 Лa8-f8+ Лf8-g8+ Лg8-f8 Крd6-d5 Крd5-d6 Лf8-a8 Лa8-b8
+Кg1-f3 g2-g3 c2-c4 Сf1-g2 0-0 Кb1-c3 e2-e3 b2-b3 Сc1-b2 Кc3-a4 Кa4-b2
+d2-d4 Кg1-f3 Сc1-f4 e2-e3 h2-h3 Сf1-e2 0-0 Сf4-h2 c2-c4 Кb1-d2 Фd1-d2 Кf3-e1 Сe2-f3 Кe1-f3 Лa1-c1 Лf1-d1 Фd2-c2 Кf3-d2 Лd1-d2 d4-e5 Сh2-e5 b2-b4 Лd2-d5 b4-a5 Лd5-d2 Фc2-b3 Лc1-d1 Лd2-d6 Лd1-d6 Лd6-d8+ Фb3-d1 Фd1-a1 Фa1-h8 f2-f4 Крg1-h2 a2-a3 Лd8-c8 Фh8-d8+ Лc8-c6+ Фd8-h8 Лc6-f6
+d2-d4 Кg1-f3 g2-g3 Сf1-g2 0-0 c2-c4 Фd1-c2 Фc2-c4 Фc4-c2 Сc1-d2 Сd2-g5 Лf1-d1 Сg5-f6 Кb1-d2 Кf3-g5 Крg1-g2 Крg2-g1 Кd2-e4 Кg5-e4 d4-d5 Лd1-d5 Лa1-d1 a2-a4 e2-e3 Фc2-a4 Фa4-c2 Кe4-d6 Лd5-d6 Фc2-e4 Лd6-a6 Лa6-a7 Лd1-d7 Лa7-c7 Лd7-d5 g3-g4 Лd5-c5 Лc5-c4 Лc7-c4 h2-h4 Крg1-g2 Крg2-g3 Лc4-c6+ Лc6-d6 Лd6-d4 f2-f3 Лd4-e4 Лe4-e5 Лe5-a5 e3-e4 Лa5-b5 Лb5-b8 Лb8-a8 Лa8-a1 Лa1-h1 Лh1-h2 Лh2-d2 h4-h5 Крg3-f2 Крf2-e2 Лd2-d6+ Лd6-d3 Крe2-e3 f3-f4
+d2-d4 Кg1-f3 g2-g3 Сf1-g2 Сc1-g5 c2-c3 Сg5-f6 c3-d4 Кb1-c3 0-0 Лa1-c1 e2-e3 Кf3-e5 Кe5-d3 Лc1-c3 Лc3-c8
+c7-c6 d7-d5 c6-d5 Кg8-f6 Кf6-d5 Кb8-c6 e7-e6 Сf8-b4 Сb4-e7 Кd5-f6 Кc6-b4 Сc8-d7 Фd8-d7 Фd7-d6 Кb4-c6 Фd6-d8 0-0 b7-c6 Кf6-d5 Кd5-b6 Фd8-d7 Кb6-d5 Лa8-b8 Фd7-b5 a7-a5 
+Кg8-f6 e7-e6 d7-d5 Сf8-e7 h7-h6 0-0 b7-b6 Кf6-d5 Фd8-e7 e6-d5 Сc8-e6 c7-c5
+d2-d4 Кg1-f3 g2-g3 Сf1-g2 0-0 Кf3-d4 Кd4-b3 c2-c4 Кb1-c3 Сc1-f4 Сf4-e3 Лa1-c1 Сe3-d2 Сd2-f4 Кc3-b5 Кb5-d6 Кd6-e8 Сg2-c6 Фd1-d8 Кe8-c7
+Кg1-f3 g2-g3 Сf1-g2 0-0 c2-c4 Кb1-c3 e2-e3 c4-d5 Кc3-d5 d2-d4 Кf3-d4 e3-d4 Сc1-e3 Фd1-b3
+c7-c6 d7-d5 c6-d5 Кg8-f6 e7-e6 Сf8-b4 d5-c4 0-0 b7-b6 Сc8-b7 Сb4-c3
+Кg8-f6 e7-e6 d7-d5 d5-d4 d4-c3 Фd8-f6 e6-e5 e5-d4 Фf6-e6+ Сf8-e7 d4-d3 Фe6-e7 0-0 h7-h6 Фe7-f6 Кb8-a6
+Кg1-f3 c2-c4 Кb1-c3 c4-d5 g2-g3 Сf1-g2 b2-b3 Сc1-b2 Лa1-c1 0-0 Кf3-e1 Кe1-d3 Кc3-d5 f2-f4 g3-f4 e2-e3 Фd1-h5 f4-f5 Кd5-e7+ Кd3-f4 Фh5-e8 Кf4-d5 Кd5-c7 Сg2-d5 Сd5-c6 b3-b4 b4-c5 Сb2-a3 Крg1-h1 Лf1-f2 Лc1-c3 Сa3-d6+ Лc3-c2
+Кg1-f3 c2-c4 Кb1-c3 e2-e4 d2-d4 Сf1-e2 Сc1-e3 d4-d5 Кf3-d2 g2-g4 h2-h4 f2-f3 h4-h5 Сe3-f2 g4-g5 Кc3-b5 b2-b4 b4-c5 Кd2-b3 Кb5-c3 Лh1-h5 Крe1-d2 Фd1-h1 Сe2-f1 Сf1-h3 Сh3-c8 Фh1-h3 Фh3-g4 Крd2-d3 Сf2-e1 Кc3-d1 Кd1-f2 Кb3-a5 Сe1-a5 Фg4-g1
+Кg1-f3 c2-c4 Кb1-c3 e2-e3 d2-d4 e3-d4 a2-a3 c4-d5 Кf3-e5 Фd1-h5 Фh5-f3 Кe5-g4 Кg4-e3 Кc3-d5
+e2-e4 Кg1-f3 d2-d4 Кf3-d4 Кb1-c3 g2-g3 Кd4-e2 Сf1-g2 h2-h3 Кc3-d5 e4-d5 Сc1-e3 b2-b3 Лa1-c1 Сe3-d4 a2-a4 Фd1-d2 Крe1-f1 f2-f3 g3-g4 h3-g4 Кe2-f4 Крf1-f2 Кf4-e2 Крf2-g3 Лh1-h4 f3-f4 f4-f5 Сg2-d5 Кe2-c3 Лh4-g4 Лc1-f1 Фd2-g5 Фg5-g8 Фg8-g5 Лf1-e1 Фg5-f6 Сd5-e6 Фf6-d4 Крg3-f4 Крf4-g5 Сe6-g8 Крg5-f6
+Кg1-f3 c2-c4 d2-d4 e2-e4 Кf3-d4 Кd4-c2 Сf1-e2 0-0 Кc2-e3 Кb1-d2 Лa1-b1 b2-b3 Сc1-b2 Кd2-f3
